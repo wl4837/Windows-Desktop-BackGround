@@ -1,0 +1,11 @@
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\bin\Debug\wl4837ATools_2.exe.config
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\bin\Debug\wl4837ATools_2.exe
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\bin\Debug\wl4837ATools_2.pdb
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.Form1.resources
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.Form2.resources
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.Properties.Resources.resources
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.csproj.GenerateResource.Cache
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.csproj.CoreCompileInputs.cache
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.exe
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.pdb
+c:\users\wl4837\source\repos\wl4837ATools_2\wl4837ATools_2\obj\Debug\wl4837ATools_2.csprojResolveAssemblyReference.cache
